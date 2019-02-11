@@ -1,0 +1,3 @@
+deployments:
+  default:
+    copy_files: /assets/production.env ~/code/conf/production.env
